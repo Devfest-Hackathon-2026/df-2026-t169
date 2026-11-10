@@ -1,0 +1,5 @@
+
+Django>=5.2,<6.0
+gunicorn>=23,<24
+google-cloud-firestore>=2,<3
+firebase-admin>=7,<8
